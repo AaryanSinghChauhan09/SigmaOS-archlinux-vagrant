@@ -1,11 +1,10 @@
 [package]
-name = "sigmaos-archlinux-vagrant"
+name = "sigmaos_archlinux_vagrant"
 version = "0.1.0"
 edition = "2021"
-authors = ["SigmaOS Contributors"]
-description = "SigmaOS archlinux-vagrant component (Arch Linux inspired)"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+description = "SigmaOS archlinux-vagrant component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "sigmaos_archlinux-vagrant"
+name = "sigmaos_archlinux_vagrant"
 path = "src/lib.rs"
