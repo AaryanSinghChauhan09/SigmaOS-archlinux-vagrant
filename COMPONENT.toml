@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-vagrant"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-vagrant component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
